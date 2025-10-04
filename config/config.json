@@ -1,0 +1,6 @@
+{
+    "DEFAULT_PREFIX" : "P!",
+        "BOT_OWNER_ID": "1412012930098139238", 
+            "DEV_MODE": true,
+                "INVITE_LINK": " https://discord.com/oauth2/authorize?client_id=1421191579506311190&permissions=8&integration_type=0&scope=bot"
+}
